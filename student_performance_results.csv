@@ -1,0 +1,11 @@
+Student_ID,Name,Maths,Science,English,Total_Marks,Average_Marks,Result,Pass_Status
+101,Anu,75,80,90,245,81.66666666666667,Excellent,Pass
+102,Ravi,60,70,85,215,71.66666666666667,Good,Pass
+103,Priya,85,90,95,270,90.0,Excellent,Pass
+104,Kiran,70,75,80,225,75.0,Excellent,Pass
+105,Sita,90,95,100,285,95.0,Excellent,Pass
+106,Arjun,55,60,70,185,61.666666666666664,Good,Pass
+107,Meena,95,92,96,283,94.33333333333333,Excellent,Pass
+108,Rahul,65,68,75,208,69.33333333333333,Good,Pass
+109,Divya,80,85,88,253,84.33333333333333,Excellent,Pass
+110,Vikram,45,50,55,150,50.0,Pass,Pass
