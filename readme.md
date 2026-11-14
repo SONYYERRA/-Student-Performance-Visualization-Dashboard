@@ -4,7 +4,7 @@ A Python-based data analysis and visualization project that explores student aca
 
 ## Project Overview
 
-This project analyzes the academic performance of 10 students. It calculates total and average marks, classifies students based on their performance, ranks students, and visualizes the results through an interactive-style dashboard of charts.
+This project analyzes the academic performance of 10 students. It calculates total and average marks, classifies students based on their performance, ranks students, and visualizes the results through a multi-chart dashboard to visualize student performance and identify patterns.
 
 ## Technologies Used
 
@@ -54,14 +54,14 @@ Student-Performance-Dashboard/
 │
 ├── student_performance_dashboard.png
 ├── student_performance_results.csv
-├── student_performance_dashboard.ipynb
+├── Student_Performance_Visualization_Dashboard.ipynb
 └── README.md
 ```
 
 ## How to Run
 
 1. Clone or download this repository.
-2. Open `student_performance_dashboard.ipynb` using Google Colab or Jupyter Notebook.
+2. Open `Student_Performance_Visualization_Dashboard.ipynb` using Google Colab or Jupyter Notebook.
 3. Install the required libraries if they are not already available:
 
 ```bash
